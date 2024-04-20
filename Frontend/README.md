@@ -1,2 +1,1 @@
-##TruePic
-This website is created to 
+## Frontend Setup
